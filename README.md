@@ -2,7 +2,7 @@
 
 Submitted by: **Quang Anh Nguyen**
 
-This web app: **insert description**
+This web app: 
 
 Time spent: **2** hours spent in total
 
@@ -38,7 +38,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![demo](https://github.com/user-attachments/assets/78a5f1c3-08e1-4b79-8a6e-f2459276cf1e)
+![demo](https://github.com/user-attachments/assets/5050cc7f-f2d8-4270-beb9-d323b51a8aa0)
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
